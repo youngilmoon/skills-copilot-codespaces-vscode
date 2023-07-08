@@ -20,5 +20,9 @@ server.listen(8081);
 console.log('Server running at http://localhost');
 
 // 7. run server: node comments.js
+
 // 8. open browser and enter url: http://localhost:8081
+
 // 9. output: Hello World
+
+// 10. stop server: ctrl + c
